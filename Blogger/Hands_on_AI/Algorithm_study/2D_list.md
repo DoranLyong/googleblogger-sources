@@ -339,7 +339,7 @@ print(f"{arr}")
 
 “**동일한 개수**로 이루어진 자료형들을 **묶어 주는 역할**을 하는 함수” 
 
-![Untitled](%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%20%E1%84%80%E1%85%B3%E1%86%AF%E1%84%8A%E1%85%B3%E1%84%80%E1%85%B5%20840f5f2ceeb544a59d95bf4a86ccd6bb/Untitled.png)
+![Untitled](2D_list/Untitled.png)
 
 - 동일한 길이의 리스트
 - `zip()` 함수에 입력  ⇒ 각 리스트를 슬라이스(slice)하여 Tuple 객체로 묶어줌
